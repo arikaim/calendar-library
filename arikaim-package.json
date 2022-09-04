@@ -1,0 +1,23 @@
+{
+    "title": "Calendars Js",
+    "package-type": "library",
+    "name": "calendar",
+    "version": "1.0.0",
+    "description": "Calendars js libraries",
+    "repository": "https://github.com/arikaim/calendar-library.git",
+    "files": [
+    ],
+    "versions": {
+        "moment": {
+            "files": [
+                "moment/moment.min.js"               
+            ] 
+        },
+        "moment-full": {
+            "files": [
+                "moment/moment.min.js",
+                "moment/moment-timer.js"   
+            ] 
+        }
+    }
+}
