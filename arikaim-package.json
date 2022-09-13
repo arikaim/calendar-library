@@ -2,12 +2,24 @@
     "title": "Calendars Js",
     "package-type": "library",
     "name": "calendar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Calendars js libraries",
     "repository": "https://github.com/arikaim/calendar-library.git",
     "files": [
     ],
     "versions": {
+        "datepicker-full": {
+            "files": [
+                "datepicker/datepicker-full.min.js", 
+                "datepicker/datepicker.min.css"               
+            ] 
+        },
+        "datepicker": {
+            "files": [
+                "datepicker/datepicker.min.js", 
+                "datepicker/datepicker.min.css"               
+            ] 
+        },
         "moment": {
             "files": [
                 "moment/moment.min.js"               
