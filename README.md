@@ -6,7 +6,7 @@
 #### Included libraries
     * moment js
     * moment js timer
-  
+    * datepicker
   
 #### Requirements 
   * [Arikaim CMS](https://github.com/arikaim/arikaim)
