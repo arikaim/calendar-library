@@ -2,7 +2,7 @@
     "title": "Calendars Js",
     "package-type": "library",
     "name": "calendar",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Calendars js libraries",
     "repository": "https://github.com/arikaim/calendar-library.git",
     "files": [
