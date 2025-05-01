@@ -2,12 +2,18 @@
     "title": "Calendars Js",
     "package-type": "library",
     "name": "calendar",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Calendars js libraries",
     "repository": "https://github.com/arikaim/calendar-library.git",
     "files": [
     ],
     "versions": {
+        "flatpickr": {
+            "files": [
+                "flatpickr/flatpickr.min.js", 
+                "flatpickr/flatpickr.min.css"               
+            ] 
+        },
         "datepicker-full": {
             "files": [
                 "datepicker/datepicker-full.min.js", 
