@@ -2,40 +2,39 @@
     "title": "Calendars Js",
     "package-type": "library",
     "name": "calendar",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Calendars js libraries",
     "repository": "https://github.com/arikaim/calendar-library.git",
-    "files": [
-    ],
+    "files": [],
     "versions": {
         "flatpickr": {
             "files": [
-                "flatpickr/flatpickr.min.js", 
-                "flatpickr/flatpickr.min.css"               
-            ] 
+                "flatpickr/flatpickr.min.js",
+                "flatpickr/flatpickr.min.css"
+            ]
         },
         "datepicker-full": {
             "files": [
-                "datepicker/datepicker-full.min.js", 
-                "datepicker/datepicker.min.css"               
-            ] 
+                "datepicker/datepicker-full.min.js",
+                "datepicker/datepicker.min.css"
+            ]
         },
         "datepicker": {
             "files": [
-                "datepicker/datepicker.min.js", 
-                "datepicker/datepicker.min.css"               
-            ] 
+                "datepicker/datepicker.min.js",
+                "datepicker/datepicker.min.css"
+            ]
         },
         "moment": {
             "files": [
-                "moment/moment.min.js"               
-            ] 
+                "moment/moment.min.js"
+            ]
         },
         "moment-full": {
             "files": [
                 "moment/moment.min.js",
-                "moment/moment-timer.js"   
-            ] 
+                "moment/moment-timer.js"
+            ]
         }
     }
 }
